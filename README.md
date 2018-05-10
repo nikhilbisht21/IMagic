@@ -1,2 +1,2 @@
 # IMagic
-Colorization of black and white image using Deep Learning
+Colorization of grayscale image using Deep Learning
